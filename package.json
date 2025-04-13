@@ -1,0 +1,20 @@
+{
+  "name": "tod-basic-informational-site",
+  "version": "1.0.0",
+  "description": "TOD Practice Exercise",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgmt88/TOD-Basic-Informational-Site.git"
+  },
+  "author": "rgmt88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgmt88/TOD-Basic-Informational-Site/issues"
+  },
+  "homepage": "https://github.com/rgmt88/TOD-Basic-Informational-Site#readme"
+}
